@@ -1,0 +1,44 @@
+"Screen reader users: There is 1 table on this tab called Table 1B: Incident dialysis patients by age group, Canada, 2020 to 2021 (number, rate per million population, percentage of total). It begins at cell A4 and ends at cell S6. The notes begin in cell A7 and the sources begin in cell A11. A link back to the table of contents is in cell A2.",,,,,,,,,,,,,,,,,,,
+Back to the Table of contents,,,,,,,,,,,,,,,,,,,
+"Table 1B  Incident dialysis patients by age group, Canada, 2020 to 2021 (number, rate per million population, percentage of total)",,,,,,,,,,,,,,,,,,,
+Year,"Age 
+0–19 
+(N)","Age 
+0–19
+(RPMP)","Age 
+0–19 
+(%)","Age 
+20–44 
+(N)","Age 
+20–44 
+(RPMP)","Age 
+20–44 
+(%)","Age 
+45–64
+(N)","Age 
+45–64 
+(RPMP)","Age 
+45–64
+(%)","Age 
+65–74 
+(N)","Age 
+65–74 
+(RPMP)","Age 
+65–74 
+(%)","Age 
+75+ 
+(N)","Age 
+75+ 
+(RPMP)","Age 
+75+ 
+(%)","Total 
+(N)",Total (RPMP),Change in total RPMP from previous year (%),
+2020,52,6.4,0.7,723,56.1,10.1,"2,338",230.3,32.7,"2,063",521.4,28.8,"1,982",686.1,27.7,"7,158",188.2,—,
+2021,58,7.2,0.9,758,58.5,11.1,"2,145",211.9,31.4,"1,943",475.3,28.4,"1,936",646.6,28.3,"6,840",178.8,-5.0,
+Notes,,,,,,,,,,,,,,,,,,,
+— Not applicable.,,,,,,,,,,,,,,,,,,,
+RPMP: Rate per million population.,,,,,,,,,,,,,,,,,,,
+"Due to significant under-reporting of Quebec dialysis data between 2011 and 2019, data within this table is limited to the last 2 years. While dialysis data submission for Quebec recommenced in 2020, there still exists potential for under-reporting of incidence in 2020–2021.",,,,,,,,,,,,,,,,,,,
+Sources,,,,,,,,,,,,,,,,,,,
+"Canadian Organ Replacement Register, 2022, Canadian Institute for Health Information; Statistics Canada.",,,,,,,,,,,,,,,,,,,
+End of worksheet,,,,,,,,,,,,,,,,,,,

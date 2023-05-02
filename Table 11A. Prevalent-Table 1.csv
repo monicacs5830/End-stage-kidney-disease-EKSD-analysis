@@ -1,0 +1,42 @@
+"Screen reader users: There is 1 table on this tab called Table 11A: Prevalent rate for patients on dialysis or with a functioning transplant in Canada (excluding Quebec), 2002 to 2021 (number, rate per million population, percentage of total). It begins at cell A4 and ends at cell J24. The notes begin in cell A25 and the sources begin in cell A29. A link back to the table of contents is in cell A2. ",,,,,,,,,,
+Back to the Table of contents,,,,,,,,,,
+"Table 11A  Prevalent rate for patients on dialysis or with a functioning transplant in Canada (excluding Quebec), 2002 to 2021 (number, rate per million population, percentage of total)",,,,,,,,,,
+Year,"Dialysis 
+(number)","Dialysis 
+(RPMP) ","Dialysis 
+(%)","Functioning 
+transplant 
+(number)","Functioning 
+transplant 
+(RPMP)","Functioning 
+transplant 
+(%)","Total 
+(number)","Total 
+(RPMP)",Change in total RPMP from previous year (%),
+2002,"13,406",560.5,60.6,"8,704",363.9,39.4,"22,110",924.4,—,
+2003,"14,255",590.1,61.1,"9,060",375.0,38.9,"23,315",965.1,4.4,
+2004,"15,053",616.8,61.5,"9,430",386.4,38.5,"24,483","1,003.2",3.9,
+2005,"15,829",641.8,61.7,"9,839",398.9,38.3,"25,668","1,040.8",3.7,
+2006,"16,388",657.1,61.3,"10,347",414.9,38.7,"26,735","1,072.0",3.0,
+2007,"16,863",669.3,60.8,"10,883",431.9,39.2,"27,746","1,101.2",2.7,
+2008,"17,297",678.7,60.4,"11,360",445.7,39.6,"28,657","1,124.4",2.1,
+2009,"17,969",696.9,60.3,"11,830",458.8,39.7,"29,799","1,155.6",2.8,
+2010,"18,389",705.2,59.8,"12,339",473.2,40.2,"30,728","1,178.4",2.0,
+2011,"18,937",719.1,59.6,"12,821",486.9,40.4,"31,758","1,206.0",2.3,
+2012,"19,518",732.3,59.3,"13,377",501.9,40.7,"32,895","1,234.2",2.3,
+2013,"20,070",744.1,59.1,"13,871",514.3,40.9,"33,941","1,258.4",2.0,
+2014,"20,625",755.8,59.0,"14,327",525.0,41.0,"34,952","1,280.9",1.8,
+2015,"21,282",773.1,58.9,"14,841",539.1,41.1,"36,123","1,312.2",2.4,
+2016,"21,805",782.0,58.5,"15,459",554.4,41.5,"37,264","1,336.4",1.8,
+2017,"22,254",787.9,58.0,"16,082",569.4,42.0,"38,336","1,357.4",1.6,
+2018,"22,751",793.7,57.7,"16,702",582.7,42.3,"39,453","1,376.4",1.4,
+2019,"23,268",799.6,57.2,"17,409",598.3,42.8,"40,677","1,397.9",1.6,
+2020,"23,816",808.4,57.1,"17,896",607.5,42.9,"41,712","1,415.9",1.3,
+2021,"24,032",810.8,56.9,"18,239",615.3,43.1,"42,271","1,426.1",2.0,
+Notes,,,,,,,,,,
+— Not applicable.,,,,,,,,,,
+RPMP: Rate per million population.,,,,,,,,,,
+Data from Quebec was excluded from this table because of significant under-reporting of dialysis data between 2011 and 2019 and transplant data between 2012 and 2021. ,,,,,,,,,,
+Sources,,,,,,,,,,
+"Canadian Organ Replacement Register, 2022, Canadian Institute for Health Information; Statistics Canada.",,,,,,,,,,
+End of worksheet,,,,,,,,,,

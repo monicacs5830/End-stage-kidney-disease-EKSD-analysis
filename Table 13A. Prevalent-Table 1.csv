@@ -1,0 +1,37 @@
+"Screen reader users: There is 1 table on this tab called Table 13A: Prevalent end-stage kidney disease patients by sex, Canada (excluding Quebec), 2002 to 2021 (number, rate per million population, percentage of total). It begins at cell A4 and ends at cell I24. The notes begin in cell A25 and the sources begin in cell A28. A link back to the table of contents is in cell A2.",,,,,,,,,
+Back to the Table of contents,,,,,,,,,
+"Table 13A  Prevalent end-stage kidney disease patients by sex, Canada (excluding Quebec), 2002 to 2021 (number, rate per million population, percentage of total)",,,,,,,,,
+Year,"Female
+(N)","Female
+(RPMP)","Female 
+(%)","Male
+(N)","Male
+(RPMP)","Male 
+(%)","Total 
+(N)",Total (RPMP),
+2002,"9,107",755.5,41.2,"13,003","1,096.0",58.8,"22,110",924.4,
+2003,"9,566",785.6,41.0,"13,749","1,147.5",59.0,"23,315",965.1,
+2004,"10,048",816.7,41.0,"14,435","1,192.8",59.0,"24,483","1,003.2",
+2005,"10,496",844.2,40.9,"15,170","1,240.4",59.1,"25,668","1,040.8",
+2006,"10,981",873.4,41.1,"15,753","1,273.8",58.9,"26,735","1,072.0",
+2007,"11,306",889.8,40.7,"16,440","1,316.3",59.3,"27,746","1,101.2",
+2008,"11,696",909.9,40.8,"16,961","1,342.9",59.2,"28,657","1,124.4",
+2009,"12,146",933.7,40.8,"17,653","1,381.7",59.2,"29,799","1,155.6",
+2010,"12,473",947.8,40.6,"18,255","1,413.4",59.4,"30,728","1,178.4",
+2011,"12,789",962.2,40.3,"18,966","1,454.2",59.7,"31,758","1,206.0",
+2012,"13,132",976.6,39.9,"19,754","1,495.8",60.1,"32,895","1,234.2",
+2013,"13,516",993.6,39.8,"20,415","1,527.0",60.1,"33,941","1,258.4",
+2014,"13,897","1,010.0",39.8,"21,043","1,555.5",60.2,"34,952","1,280.9",
+2015,"14,270","1,027.9",39.5,"21,840","1,600.6",60.5,"36,123","1,312.2",
+2016,"14,634","1,040.6",39.3,"22,619","1,636.6",60.7,"37,264","1,336.4",
+2017,"15,019","1,054.5",39.2,"23,307","1,664.8",60.8,"38,336","1,357.4",
+2018,"15,423","1,067.5",39.1,"24,020","1,689.6",60.9,"39,453","1,376.4",
+2019,"15,918","1,085.7",39.1,"24,750","1,714.5",60.8,"40,677","1,397.9",
+2020,"16,374","1,102.9",39.3,"25,328","1,733.3",60.7,"41,712","1,415.9",
+2021,"16,614","1,112.2",39.3,"25,648","1,744.3",60.7,"42,271","1,426.1",
+Notes,,,,,,,,,
+RPMP: Rate per million population.,,,,,,,,,
+Data from Quebec was excluded from this table because of significant under-reporting of dialysis data between 2011 and 2019 and transplant data between 2012 and 2021. ,,,,,,,,,
+Sources,,,,,,,,,
+"Canadian Organ Replacement Register, 2022, Canadian Institute for Health Information; Statistics Canada.",,,,,,,,,
+End of worksheet,,,,,,,,,

@@ -1,0 +1,19 @@
+"Screen reader users: There is 1 table on this tab called Table 13B: Prevalent dialysis patients by sex, Canada, 2020 to 2021 (number, rate per million population, percentage of total). It begins at cell A4 and ends at cell I6. The notes begin in cell A7 and the sources begin in cell A10. A link back to the table of contents is in cell A2.",,,,,,,,,
+Back to the Table of contents,,,,,,,,,
+"Table 13B  Prevalent dialysis patients by sex, Canada, 2020 to 2021 (number, rate per million population, percentage of total)",,,,,,,,,
+Year,"Female
+(N)","Female
+(RPMP)","Female 
+(%)","Male
+(N)","Male
+(RPMP)","Male 
+(%)","Total 
+(N)",Total (RPMP),
+2020,"11,747",613.9,39.8,"17,745",938.8,60.1,"29,504",775.7,
+2021,"11,861",616.5,39.8,"17,962",945.0,60.2,"29,835",780.1,
+Notes,,,,,,,,,
+RPMP: Rate per million population.,,,,,,,,,
+"Due to significant under-reporting of Quebec dialysis data between 2011 and 2019, data within this table is limited to the last 2 years. While dialysis data submission for Quebec recommenced in 2020, there still exists potential for under-reporting of prevalence in 2020–2021.",,,,,,,,,
+Sources,,,,,,,,,
+"Canadian Organ Replacement Register, 2022, Canadian Institute for Health Information; Statistics Canada.",,,,,,,,,
+End of worksheet,,,,,,,,,

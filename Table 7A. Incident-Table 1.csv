@@ -1,0 +1,45 @@
+"Screen reader users: There is 1 table on this tab called Table 7A: Incident end-stage kidney disease patients by primary diagnosis, Canada (excluding Quebec), 2012 to 2021 (number, percentage, rate per million population). It begins at cell A4 and ends at cell L28. The notes begin in cell A29 and the sources begin in cell A33. A link back to the table of contents is in cell A2.",,,,,,,,,,,,,,,,,,,,,,,,,,
+Back to the Table of contents,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Table 7A  Incident end-stage kidney disease patients by primary diagnosis, Canada (excluding Quebec), 2012 to 2021 (number, percentage, rate per million population)",,,,,,,,,,,,,,,,,,,,,,,,,,
+Diagnosis*,Unit of measure," 2012 
+(N = 4,921)"," 2013 
+(N = 5,166)"," 2014 
+(N = 5,238)"," 2015 
+(N = 5,508)"," 2016 
+(N = 5,648)"," 2017 
+(N = 5,688)"," 2018 
+(N = 6,014)"," 2019 
+(N = 6,154)"," 2020 
+(N = 6,196)"," 2021 
+(N = 6,091)",,,,,,,,,,,,,,,
+Glomerulonephritis,N,533,530,567,619,620,651,637,652,640,614,,,,,,,,,,,,,,,
+Glomerulonephritis,RPMP,20.0,19.6,20.8,22.5,22.2,23.0,22.2,22.4,21.7,20.7,,,,,,,,,,,,,,,
+Glomerulonephritis,%,10.8,10.3,10.8,11.2,11.0,11.4,10.6,10.6,10.3,10.1,,,,,,,,,,,,,,,
+Diabetes,N,"1,935","1,956","1,985","2,141","2,135","2,239","2,293","2,234","2,367","2,306",,,,,,,,,,,,,,,
+Diabetes,RPMP,72.6,72.5,72.7,77.8,76.6,79.3,80.0,76.8,80.3,77.8,,,,,,,,,,,,,,,
+Diabetes,%,39.3,37.9,37.9,38.9,37.8,39.4,38.1,36.3,38.2,37.9,,,,,,,,,,,,,,,
+Renal vascular disease,N,750,756,679,783,761,737,712,647,743,732,,,,,,,,,,,,,,,
+Renal vascular disease,RPMP,28.1,28.0,24.9,28.4,27.3,26.1,24.8,22.2,25.2,24.7,,,,,,,,,,,,,,,
+Renal vascular disease,%,15.2,14.6,13.0,14.2,13.5,13.0,11.8,10.5,12.0,12.0,,,,,,,,,,,,,,,
+Polycystic kidney disease,N,203,209,176,202,215,199,223,208,207,198,,,,,,,,,,,,,,,
+Polycystic kidney disease,RPMP,7.6,7.7,6.4,7.3,7.7,7.0,7.8,7.1,7.0,6.7,,,,,,,,,,,,,,,
+Polycystic kidney disease,%,4.1,4.0,3.4,3.7,3.8,3.5,3.7,3.4,3.3,3.3,,,,,,,,,,,,,,,
+Drug induced,N,83,94,94,82,95,83,111,88,109,83,,,,,,,,,,,,,,,
+Drug induced,RPMP,3.1,3.5,3.4,3.0,3.4,2.9,3.9,3.0,3.7,2.8,,,,,,,,,,,,,,,
+Drug induced,%,1.7,1.8,1.8,1.5,1.7,1.5,1.8,1.4,1.8,1.4,,,,,,,,,,,,,,,
+Pyelonephritis,N,106,102,105,111,128,137,112,82,151,118,,,,,,,,,,,,,,,
+Pyelonephritis,RPMP,4.0,3.8,3.8,4.0,4.6,4.9,3.9,2.8,5.1,4.0,,,,,,,,,,,,,,,
+Pyelonephritis,%,2.2,2.0,2.0,2.0,2.3,2.4,1.9,1.3,2.4,1.9,,,,,,,,,,,,,,,
+Other*,N,578,822,600,915,"1,043","1,013","1,144","1,266","1,098","1,252",,,,,,,,,,,,,,,
+Other*,RPMP,21.7,30.5,22.0,33.2,37.4,35.9,39.9,43.5,37.3,42.2,,,,,,,,,,,,,,,
+Other*,%,11.7,15.9,11.5,16.6,18.5,17.8,19.0,20.6,17.7,20.6,,,,,,,,,,,,,,,
+Unknown/not reported,N,733,697,"1,032",655,651,629,782,977,881,788,,,,,,,,,,,,,,,
+Unknown/not reported,RPMP,27.5,25.8,37.8,23.8,23.3,22.3,27.3,33.6,29.9,26.6,,,,,,,,,,,,,,,
+Unknown/not reported,%,14.9,13.5,19.7,11.9,11.5,11.1,13.0,15.9,14.2,12.9,,,,,,,,,,,,,,,
+Notes,,,,,,,,,,,,,,,,,,,,,,,,,,
+"* For a list of all primary diagnoses captured by CORR, see Canadian Organ Replacement Register — Methodology Notes and Supplementary Information, 2012 to 2021. ",,,,,,,,,,,,,,,,,,,,,,,,,,
+RPMP: Rate per million population.,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data from Quebec was excluded from this table because of significant under-reporting of dialysis data between 2011 and 2019 and transplant data between 2012 and 2021. ,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sources,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Canadian Organ Replacement Register, 2022, Canadian Institute for Health Information; Statistics Canada.",,,,,,,,,,,,,,,,,,,,,,,,,,
+End of worksheet,,,,,,,,,,,,,,,,,,,,,,,,,,

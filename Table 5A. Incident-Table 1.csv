@@ -1,0 +1,38 @@
+"Screen reader users: There is 1 table on this tab called Table 5A: Incident end-stage kidney disease patients by age group and initial type of treatment, Canada (excluding Quebec), 2012 to 2021 (number). It begins at cell A4 and ends at cell L22. The notes begin in cell A23 and the source begins in cell A26. A link back to the table of contents is in cell A2.",,,,,,,,,,,,,
+Back to the Table of contents,,,,,,,,,,,,,
+"Table 5A  Incident end-stage kidney disease patients by age group and initial type of treatment, Canada (excluding Quebec), 2012 to 2021 (number)",,,,,,,,,,,,,
+Age group,Initial modality," 2012 
+(N = 4,921)"," 2013 
+(N = 5,166)"," 2014 
+(N = 5,238)"," 2015 
+(N = 5,508)"," 2016 
+(N = 5,648)"," 2017 
+(N = 5,688)"," 2018 
+(N = 6,014)"," 2019 
+(N = 6,154)"," 2020 
+(N = 6,196)"," 2021 
+(N = 6,091)",,
+0–19 ,HD,30,23,22,22,26,27,18,23,22,27,,
+0–19,PD,15,16,9,21,20,12,9,15,17,22,,
+0–19,Pre-emptive,27,20,33,19,21,25,33,27,18,37,,
+20–44 ,HD,384,364,414,414,419,412,439,416,444,485,,
+20–44 ,PD,111,146,132,151,153,170,172,164,175,185,,
+20–44 ,Pre-emptive,44,43,39,46,36,54,44,43,46,42,,
+45–64 ,HD,"1,310","1,330","1,343","1,386","1,431","1,337","1,460","1,537","1,510","1,451",,
+45–64 ,PD,377,412,446,426,466,484,503,497,488,444,,
+45–64 ,Pre-emptive,66,68,57,77,66,73,58,76,66,56,,
+65–74 ,HD,989,"1,045","1,040","1,154","1,169","1,201","1,285","1,321","1,342","1,271",,
+65–74 ,PD,218,237,261,315,338,383,382,357,413,396,,
+65–74 ,Pre-emptive,9,16,21,18,20,22,25,25,13,32,,
+75+ ,HD,"1,137","1,215","1,199","1,220","1,182","1,211","1,286","1,329","1,286","1,283",,
+75+ ,PD,202,230,221,237,299,275,297,318,354,356,,
+75+ ,Pre-emptive,2,1,1,2,2,2,3,6,2,4,,
+Total,HD,"3,850","3,977","4,018","4,196","4,227","4,188","4,488","4,626","4,604","4,517",,
+Total,PD,923,"1,041","1,069","1,150","1,276","1,324","1,363","1,351","1,447","1,403",,
+Total,Pre-emptive,148,148,151,162,145,176,163,177,145,171,,
+Notes,,,,,,,,,,,,,
+HD: Hemodialysis; PD: Peritoneal dialysis; Pre-emptive: Pre-emptive kidney transplant.,,,,,,,,,,,,,
+Data from Quebec was excluded from this table because of significant under-reporting of dialysis data between 2011 and 2019 and transplant data between 2012 and 2021. ,,,,,,,,,,,,,
+Source,,,,,,,,,,,,,
+"Canadian Organ Replacement Register, 2022, Canadian Institute for Health Information.",,,,,,,,,,,,,
+End of worksheet,,,,,,,,,,,,,
